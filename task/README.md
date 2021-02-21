@@ -1,2 +1,2 @@
-# Workboook
-A web app for companies looking for employees
+# Task
+A web app using Express.js and MongoDB
