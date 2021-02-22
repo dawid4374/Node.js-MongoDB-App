@@ -1,2 +1,15 @@
 # Task
-A web app using Express.js and MongoDB
+A web app using Node.js Express.js MongoDB Mongoose and some other packages.
+
+Usage:
+
+$ npm install
+
+run with Nodemon
+
+$ npm start
+
+MongoDB
+Create "config/config.env" and add there your MongoDB URI, local or Atlas
+
+
