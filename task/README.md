@@ -5,7 +5,7 @@ Usage:
 
 $ npm install
 
-run with Nodemon
+to run app with Nodemon:
 
 $ npm start
 
