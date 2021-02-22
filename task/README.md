@@ -9,7 +9,8 @@ run with Nodemon
 
 $ npm start
 
-MongoDB
+MongoDB:
+
 Create "config/config.env" and add there your MongoDB URI, local or Atlas
 
 
