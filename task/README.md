@@ -1,5 +1,5 @@
 # Task
-A web app using Node.js Express.js MongoDB Mongoose and some other packages.
+A server side app using Node.js Express.js MongoDB Mongoose and some other packages.
 
 Usage:
 
