@@ -3,7 +3,7 @@
 A server side app using Node.js, Express.js, MongoDB, Mongoose and some other packages.
 
 
-Application functions:
+### Application functions:
 
 - read JSON data from URL address,
 
@@ -19,13 +19,17 @@ Application functions:
 
 
 
-Usage:
-
+### Usage:
+```
 $ npm install
+```
+
 
 to run app with Nodemon:
-
+```
 $ npm start
+```
+
 
 MongoDB:
 
